@@ -103,5 +103,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: root@ql.aaafei999.icu:10080/var/repo/blog.git
-  branch: master
+  repo: git@github.com:QuinlanD/quinlandai.github.io
+  branch: main
