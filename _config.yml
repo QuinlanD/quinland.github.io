@@ -102,6 +102,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/QuinlanD/quinland.github.io
-  branch: main
+  - type: git
+    repo: https://github.com/QuinlanD/quinland.github.io.git
+    branch: master
